@@ -14,6 +14,10 @@ const Init = () => {
         </button>
         </Link>
     </div>
+    <br /><br /><br /><br /><br /><br />
+    <br /><br /><br /><br /><br /><br />
+    <br /><br /><br /><br /><br /><br />
+    <br /><br /><br /><br /><br /><br />
   </div>
     )
 }
